@@ -5,10 +5,11 @@
 ---
 
 ## 👩‍💻 About Me
+<h1 align="center"></h1>
 
-Data Science aspirant with a **Professional Diploma in Artificial Intelligence and Data Science**.  
-Skilled in **Python, Machine Learning, Deep Learning, Computer Vision, and Generative AI**.  
-Passionate about building **real-world, data-driven intelligent systems**.
+**Data Science aspirant with a Professional Diploma in Artificial Intelligence and Data Science.Skilled in Python, Machine Learning, Deep Learning, Computer Vision, and Generative AI.Passionate about building real-world, data-driven intelligent systems.**
+
+
 ---
 
 <h1 align="center"></h1>
